@@ -1,0 +1,13 @@
+{
+  "name": "conquestbot",
+  "version": "1.0.0",
+  "description": "le bot de conquête des warriors",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "WarriorOfMeadow",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
